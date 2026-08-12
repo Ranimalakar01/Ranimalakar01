@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at Indore Professional Services Academy<br><br>🌱 I’m currently learning DSA and basic programming<br><br>👨‍💻 All of my projects are available at https://github.com/Ranimalalakr01<br><br>👀 I’m a quick learner and have a great problem solving mindset.<br><br>I want to become a great programmer one day.
+I am currently a student at Institute of Engineering and science IPS Academy<br><br>🌱 I’m currently learning DSA and basic programming<br><br>👨‍💻 All of my projects are available at https://github.com/Ranimalalakr01<br><br>👀 I’m a quick learner and have a great problem solving mindset.<br><br>I want to become a great programmer one day.
 
 
 # 💻 Tech Stack:
